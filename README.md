@@ -1,3 +1,6 @@
+위키독스 **딥 러닝을 이용한 자연어 처리 입문** 의 코드 스터디 및 리뷰 세션입니다.
+소스 코드의 저작권은 **딥 러닝을 이용한 자연어 처리 입문** 원저자에 있음을 밝힙니다.
+
 # Tensorflow-NLP-tutorial
 
 A list of NLP(Natural Language Processing) tutorials built on Tensorflow 2.0.
